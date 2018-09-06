@@ -1,6 +1,8 @@
 package gestiontestjunit4;
 
 public class Calcul {
-	system.out.println("ndongo");
+	public int calculer(int x) {
+		return x;
+	}
 
 }
