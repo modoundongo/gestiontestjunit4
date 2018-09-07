@@ -7,5 +7,7 @@ public class Calcul {
 	public void message() {
 		System.out.println("ndongo");
 	}
-
+ public void testjenkins() {
+	 System.out.println("jenkins");
+ }
 }
