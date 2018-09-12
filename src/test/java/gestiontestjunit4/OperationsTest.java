@@ -9,6 +9,8 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import sn.objis.gestiontestjunit.Operations;
+
 public class OperationsTest {
 	static Operations op;
 	

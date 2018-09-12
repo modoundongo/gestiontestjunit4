@@ -1,4 +1,4 @@
-package gestiontestjunit4;
+package sn.objis.gestiontestjunit;
 
 public class Soustraction {
 	private int a;

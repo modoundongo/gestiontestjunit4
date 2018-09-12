@@ -8,6 +8,8 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import sn.objis.gestiontestjunit.Division;
+
 public class DivisionTest {
 	static Division div;
 	
