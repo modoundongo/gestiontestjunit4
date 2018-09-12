@@ -10,6 +10,7 @@ public class Calcul {
 		logger.log(Level.INFO, "ndongo");
 	}
  public void testjenkins() {
+	 System.out.println("testsonar avec jenkins");
 	 
  }
 }
